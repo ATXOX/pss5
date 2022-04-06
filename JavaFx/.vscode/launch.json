@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ButtonInPane",
+            "request": "launch",
+            "mainClass": "ButtonInPane",
+            "projectName": "JavaFx_6e5979e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowBorderPane",
+            "request": "launch",
+            "mainClass": "ShowBorderPane",
+            "projectName": "JavaFx_6e5979e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "JavaFx_6e5979e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch board",
+            "request": "launch",
+            "mainClass": "board",
+            "projectName": "JavaFx_6e5979e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowGridPane",
+            "request": "launch",
+            "mainClass": "ShowGridPane",
+            "projectName": "JavaFx_6e5979e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch NodeStyleRotateDemo",
+            "request": "launch",
+            "mainClass": "NodeStyleRotateDemo",
+            "projectName": "JavaFx_6e5979e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowImage",
+            "request": "launch",
+            "mainClass": "ShowImage",
+            "projectName": "JavaFx_6e5979e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowHBoxVBox",
+            "request": "launch",
+            "mainClass": "ShowHBoxVBox",
+            "projectName": "JavaFx_6e5979e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowText",
+            "request": "launch",
+            "mainClass": "ShowText",
+            "projectName": "JavaFx_6e5979e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyJavaFX",
+            "request": "launch",
+            "mainClass": "MyJavaFX",
+            "projectName": "JavaFx_6e5979e7"
+        }
+    ]
+}
